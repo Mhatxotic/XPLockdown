@@ -1,0 +1,23 @@
+1 ICON LOCKDOWN.ICO
+
+1 VERSIONINFO
+FILEVERSION 25,6,20,0
+PRODUCTVERSION 25,6,20,0
+FILETYPE 0x1
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "080904B0"
+    {
+      VALUE "CompanyName", "Mhatxotic Design"
+      VALUE "FileDescription", "Lockdown"
+      VALUE "FileVersion", "25.6.20.0"
+      VALUE "LegalCopyright", "CC0 1.0 Universal"
+      VALUE "OriginalFilename", "LOCKDOWN.EXE"
+    }
+  }
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x0809 0x04B0
+  }
+}
